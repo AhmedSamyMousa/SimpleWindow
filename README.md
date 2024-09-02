@@ -21,4 +21,4 @@ To compile and run this project, you will need:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/simple-window-cpp.git
+   git clone https://github.com/AhmedSamyMousa/SimpleWindow.git
